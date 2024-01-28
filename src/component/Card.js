@@ -9,7 +9,7 @@ const Card = () => {
         alt="임시 사진설명"
       />
       <div className="w-[30rem] m-auto">
-        <h3 className="text-black text-left mt-3">제목입니다.</h3>
+        <h3 className="text-black text-left mt-5 mb-3">제목입니다.</h3>
         <p className="  text-blue-500 text-left text-sm hover:text-balance">
           Lorem Ipsum is simply dummy text of the printing and typesetting
           industry. Lorem Ipsum has been the industry's standard dummy text ever
